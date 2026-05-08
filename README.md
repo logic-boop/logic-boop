@@ -1,4 +1,4 @@
-# 🤖 Logic | Technical Architect & Creative Strategist
+# 🤖 LogicTech | Technical Architect & Creative Strategist
 **Bridging the gap between Agentic AI Orchestration and High-Performance Visual Identity.**
 
 ### 🛠️ Core Focus
