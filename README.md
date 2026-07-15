@@ -12,6 +12,29 @@ Building modern, scalable and beautiful web applications.
 
 ---
 
+# 🚀 TECH STACK
+
+### Frontend Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### Backend Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
+</p>
+
+---
+
+
 ## About Me
 
 - Full Stack Engineer based in Nigeria.
@@ -30,35 +53,6 @@ Building modern, scalable and beautiful web applications.
 - REST APIs
 - Modern User Interfaces
 - Premium Digital Experiences
-
----
-
-## Tech Stack
-
-### Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React.js
-- Next.js
-- Tailwind CSS
-
-### Backend
-
-- Node.js
-- Express.js
-- PostgreSQL
-- Prisma ORM
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Vercel
-- Cloudinary
 
 ---
 
