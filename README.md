@@ -1,24 +1,69 @@
-# 🤖 LogicTech | Technical Architect & Creative Strategist
-**Bridging the gap between Agentic AI Orchestration and High-Performance Visual Identity.**
+# Hi, I'm Olubode Afolabi James 👋
 
-### 🛠️ Core Focus
-* **Autonomous Agents:** Implementing stateful multi-agent swarms (LangGraph/CrewAI) for enterprise automation.
-* **Production Hardening:** Refactoring LLM streaming logic (SSE) and autonomous error-correction loops.
-* **3D & Creative Systems:** Integrating **Three.js** and **Motion Graphics** into functional AI interfaces.
-* **Neural Core Development:** Building a bridge between creative 3D architecture and agentic backend systems.
+## Full Stack Engineer
 
-### 📈 Note on Repository Activity
-Most of my professional architectural work over the past 5+ years has been conducted within **private enterprise environments** and partner-specific repositories (including US-based AI scaling projects). 
-
-This public profile serves as a central R&D lab for the **LogicTech** ecosystem.
+I build modern, scalable, and responsive web applications using modern technologies and best development practices.
 
 ---
 
-### 🧪 Technical & Creative Stack
-* **AI & Logic:** Python, OpenAI/Anthropic Tool-Calling, Vector Databases, Multi-Agent Orchestration.
-* **Web & App:** Next.js (TypeScript), React, Node.js, Flutter (Mobile), Tailwind CSS.
-* **3D & Visuals:** Three.js (3D Rendering), Blender, Motion Graphics, Brand Identity Design.
-* **Architecture:** Server-Sent Events (SSE), Stateful UI/UX, Scalable API Design.
+## About Me
+
+- Full Stack Engineer based in Nigeria.
+- Passionate about building beautiful and functional digital products.
+- I enjoy solving real-world problems through code.
+- Always learning and improving my skills.
 
 ---
-[LogicTech HQ](https://logictech-umber.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/afolabi-olubode-710803187/)
+
+## What I Build
+
+- Full Stack Web Applications
+- Responsive Websites
+- Business Websites
+- Admin Dashboards
+- REST APIs
+- Modern User Interfaces
+- Premium Digital Experiences
+
+---
+
+## Tech Stack
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React.js
+- Next.js
+- Tailwind CSS
+
+### Backend
+
+- Node.js
+- Express.js
+- PostgreSQL
+- Prisma ORM
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Vercel
+- Cloudinary
+
+---
+
+## Currently Building
+
+- LEXO PROPERTY
+
+---
+
+## Connect With Me
+
+- Portfolio Website
+- LinkedIn
+- Email
