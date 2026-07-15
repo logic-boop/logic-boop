@@ -51,6 +51,18 @@ Currently, I'm building products through **LogicTech** and continuously improvin
 
 ---
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Engineer-dc2626?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Frontend%20%26%20Full%20Stack-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Next.js-TypeScript-black?style=for-the-badge"/>
+
+</p>
+
+---
+
 # 🌱 Currently Working On
 
 - 🏡 LEXO PROPERTY — A modern real estate platform.
@@ -224,12 +236,13 @@ Currently, I'm building products through **LogicTech** and continuously improvin
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=logic-boop&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logic-boop&layout=compact&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=logic-boop&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logic-boop&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=logic-boop&theme=transparent&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=logic-boop&theme=transparent&hide_border=true"/>
 </p>
 
 ---
