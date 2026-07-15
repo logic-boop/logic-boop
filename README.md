@@ -2,11 +2,13 @@
   <img src="./github banner.png" alt="Olubode Afolabi James Banner" />
 </p>
 
-# Hi, I'm Olubode Afolabi James 👋
+<h1 align="center">OLUBODE AFOLABI JAMES</h1>
 
-## Full Stack Engineer
+<h3 align="center">Full Stack Engineer</h3>
 
-I build modern, scalable, and responsive web applications using modern technologies and best development practices.
+<p align="center">
+Building modern, scalable and beautiful web applications.
+</p>
 
 ---
 
