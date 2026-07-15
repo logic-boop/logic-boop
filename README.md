@@ -64,8 +64,11 @@ Building modern, scalable and beautiful web applications.
 
 ---
 
-## Connect With Me
+# 🤝 CONNECT WITH ME
 
 - Portfolio Website
-- LinkedIn
-- Email
+- LinkedIn Profile
+- Professional Email Address
+- GitHub Profile
+
+---
