@@ -62,49 +62,145 @@ Building modern, scalable and beautiful web applications.
 
 ## 🏡 LEXO PROPERTY
 
-A modern real estate platform designed to simplify property sales and rentals with a clean user experience and scalable architecture.
+> A modern real estate platform built to simplify buying, selling, and renting properties through a fast, secure, and intuitive experience.
 
-**Tech Stack:** Next.js • TypeScript • Tailwind CSS • PostgreSQL • Prisma ORM
+**Built With**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,postgres,prisma" />
+</p>
+
+<p>
+
+<a href="#">
+<img src="https://img.shields.io/badge/🚧%20Coming%20Soon-1F2937?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/logic-boop/lexo-property-Real-Estate-Website">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 ## 💼 LogicTech
 
-A premium business website showcasing modern web development services, branding solutions, and digital innovation.
+> Premium business website delivering modern web development, branding, UI/UX, and digital solutions.
 
-**Tech Stack:** Next.js • TypeScript • Tailwind CSS
+**Built With**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" />
+</p>
+
+<p>
+
+<a href="https://logictech-umber.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/logic-boop/LogicTech">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## 🌍 Relocation Platform
+## 🌍 Vesta(Relocation Platform)
 
-A responsive relocation platform designed to help users explore relocation opportunities through a modern and intuitive interface.
+> A modern relocation platform helping individuals and families discover relocation opportunities through an elegant digital experience.
 
-**Tech Stack:** Next.js • TypeScript • Tailwind CSS
+**Built With**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" />
+</p>
+
+<p>
+
+<a href="https://vesta-official.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/logic-boop/relocation-website">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 ## 🛍️ Dropshipping Store
 
-A modern e-commerce website built to showcase products with a responsive shopping experience and clean user interface.
+> A responsive e-commerce website designed to deliver a smooth shopping experience with a modern interface.
 
-**Tech Stack:** Next.js • TypeScript • Tailwind CSS
+**Built With**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" />
+</p>
+
+<p>
+
+<a href="https://7-figure-axis.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/logic-boop/dropshipping-portfolio-website">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## ⛪ EGEC Church Website
+## ⛪ EGEC Website
 
-A responsive church website developed to provide members and visitors with information, event updates, and digital engagement.
+> Official website for Eloi Gospel Evangelical Church, providing event information, ministry updates, and online engagement.
 
-**Tech Stack:** Next.js • TypeScript • Tailwind CSS
+**Built With**
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind" />
+</p>
+
+<p>
+
+<a href="https://eloigospel.org/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/logic-boop/eloi-gospel-evangelical-church-web">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 ## 💬 Chat Messenger
 
-A real-time messaging application focused on seamless communication with a clean and responsive interface.
+> A real-time messaging application focused on fast, reliable, and responsive communication.
 
-**Tech Stack:** React • TypeScript • Node.js
+**Built With**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs" />
+</p>
+
+<p>
+
+<a href="https://relayer-beryl.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/logic-boop/chat-messenger">
+<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
