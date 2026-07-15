@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github banner.png" alt="Olubode Afolabi James Banner" />
+</p>
+
 # Hi, I'm Olubode Afolabi James 👋
 
 ## Full Stack Engineer
