@@ -4,6 +4,10 @@
 
 <h1 align="center">OLUBODE AFOLABI JAMES</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Building+Modern+Web+Applications;Next.js+%7C+React+%7C+TypeScript;Node.js+%7C+PostgreSQL+%7C+Prisma;Open+to+Frontend+and+Full+Stack+Roles" alt="Typing SVG" />
+</p>
+
 <h3 align="center">Full Stack Engineer</h3>
 
 <p align="center">
@@ -200,6 +204,19 @@ Building modern, scalable and beautiful web applications.
 <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=logic-boop&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logic-boop&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=logic-boop&theme=transparent&hide_border=true" />
 </p>
 
 ---
