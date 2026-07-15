@@ -229,3 +229,7 @@ Building modern, scalable and beautiful web applications.
 - GitHub Profile
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=logic-boop&label=Profile%20Views&color=dc2626&style=for-the-badge" alt="Profile Views" />
+</p>
