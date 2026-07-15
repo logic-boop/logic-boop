@@ -58,9 +58,53 @@ Building modern, scalable and beautiful web applications.
 
 ---
 
-## Currently Building
+# 🚀 Featured Projects
 
-- LEXO PROPERTY
+## 🏡 LEXO PROPERTY
+
+A modern real estate platform designed to simplify property sales and rentals with a clean user experience and scalable architecture.
+
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS • PostgreSQL • Prisma ORM
+
+---
+
+## 💼 LogicTech
+
+A premium business website showcasing modern web development services, branding solutions, and digital innovation.
+
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS
+
+---
+
+## 🌍 Relocation Platform
+
+A responsive relocation platform designed to help users explore relocation opportunities through a modern and intuitive interface.
+
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS
+
+---
+
+## 🛍️ Dropshipping Store
+
+A modern e-commerce website built to showcase products with a responsive shopping experience and clean user interface.
+
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS
+
+---
+
+## ⛪ EGEC Church Website
+
+A responsive church website developed to provide members and visitors with information, event updates, and digital engagement.
+
+**Tech Stack:** Next.js • TypeScript • Tailwind CSS
+
+---
+
+## 💬 Chat Messenger
+
+A real-time messaging application focused on seamless communication with a clean and responsive interface.
+
+**Tech Stack:** React • TypeScript • Node.js
 
 ---
 
