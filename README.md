@@ -44,15 +44,17 @@ Building modern, scalable and beautiful web applications.
 
 ---
 
-## What I Build
+# 💻 WHAT I BUILD
 
-- Full Stack Web Applications
-- Responsive Websites
-- Business Websites
+- Modern Web Applications
+- Full Stack Applications
+- Responsive Business Websites
 - Admin Dashboards
-- REST APIs
-- Modern User Interfaces
-- Premium Digital Experiences
+- REST API Integrations
+- Portfolio Websites
+- Premium User Interfaces (UI)
+- Scalable Backend Systems
+- Modern Landing Pages
 
 ---
 
