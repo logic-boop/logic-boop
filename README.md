@@ -39,12 +39,25 @@ Building modern, scalable and beautiful web applications.
 ---
 
 
-## About Me
+# 👨‍💻 About Me
 
-- Full Stack Engineer based in Nigeria.
-- Passionate about building beautiful and functional digital products.
-- I enjoy solving real-world problems through code.
-- Always learning and improving my skills.
+I'm **Olubode Afolabi James**, a **Full Stack Engineer** based in Nigeria, passionate about building modern, scalable, and user-focused web applications.
+
+I specialize in developing responsive websites and full stack applications using technologies like **Next.js, React, TypeScript, Node.js, PostgreSQL, and Prisma**.
+
+I enjoy transforming ideas into digital products that are fast, intuitive, and visually appealing while maintaining clean architecture and excellent user experience.
+
+Currently, I'm building products through **LogicTech** and continuously improving my skills by working on real-world projects.
+
+---
+
+# 🌱 Currently Working On
+
+- 🏡 LEXO PROPERTY — A modern real estate platform.
+- 🌐 Building premium web applications with Next.js and TypeScript.
+- 🚀 Expanding my backend expertise with PostgreSQL and Prisma ORM.
+- 🎨 Designing clean, modern user experiences.
+- 💼 Open to Frontend and Full Stack opportunities.
 
 ---
 
@@ -227,6 +240,18 @@ Building modern, scalable and beautiful web applications.
 - LinkedIn Profile
 - Professional Email Address
 - GitHub Profile
+
+---
+
+<p align="center">
+
+### Thanks for stopping by! 👋
+
+If you like my work or would like to collaborate, feel free to connect with me.
+
+⭐ Don't forget to explore my repositories.
+
+</p>
 
 ---
 
